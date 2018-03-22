@@ -20,8 +20,9 @@ def getview(url):
 
 f = io.open("info.json", encoding='utf-8')
 info = json.load(f)
+length = len(info['class'])
 i=0
-while(info['class'][i]):
+while(i<length):
 	date = info['class'][i]['date']
 
 	sjd = info['class'][i]['sjd']

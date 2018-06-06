@@ -1,25 +1,13 @@
 {
-	"class":
-	[	
+        "class":
+        [
 	{
-		"date":"2018-03-25",
-		"sjd":"午间",
-		"ddlShbm":"XXXX学院",
-		"txtJyly":"借用事由",
-		"txtSydx":"借用对象",
-		"roomid":"教室id",
-		"studentid":"学号",
-		"passwd":"教务网密码",
-		"phone":"电话",
-		"email":"邮箱"
-	},
-	{
-                "date":"",
-                "sjd":"",
-                "ddlShbm":"",
+                "date":"2018-06-10",
+                "sjd":"晚间",
+                "ddlShbm":"电气工程学院",
                 "txtJyly":"",
                 "txtSydx":"",
-                "roomid":"",
+                "roomid":"53010107",
                 "studentid":"",
                 "passwd":"",
                 "phone":"",
